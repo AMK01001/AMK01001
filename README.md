@@ -10,6 +10,9 @@
    <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+   <img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=white" />
+   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/Docker_Compose-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
 </div>
 
 ##
